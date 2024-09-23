@@ -1,2 +1,3 @@
 # SCMHR
- scalable cross modal haptic signal recovery 
+ scalable cross modal haptic signal generation 
+ 

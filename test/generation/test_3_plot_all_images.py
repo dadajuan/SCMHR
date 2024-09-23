@@ -21,7 +21,7 @@ from metric import RMSE_loss, SIM
 
 #input_folder = 'D:\Desktop\ACM10.7\coding\code_process\output_haptic_files'  # 你保存的所有的触觉的文件的地址，包括生成的和原始的
 
-'''保存并画出所有的触觉图片'''
+'''保存并画出所有的触觉图片，新的'''
 
 
 # 文件夹1--经过test_1之后生成的所有的触觉信号txt文件都保存在这个里面

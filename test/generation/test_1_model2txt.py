@@ -4,7 +4,8 @@ from torch import nn
 '''
 当模型训练完之后运行本代码；
 保存训练的每一个样本生成的触觉信号;
-之后去运行text2代码去画图
+之后去运行text2代码去画图,新的
+
 
 '''
 import torch

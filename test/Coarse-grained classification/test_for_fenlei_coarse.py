@@ -2,7 +2,7 @@ import torch
 from torch import nn
 
 '''
-模型训练完毕之后，检验模型的性能指标
+模型训练完毕之后，检验模型的性能指标，新的
 '''
 import torch
 from torchvision import transforms

@@ -9,7 +9,7 @@ from torch.nn import init
 import torchvision.models as models
 
 
-'''初始化网络参数'''
+'''初始化网络参数，'''
 
 def weights_init_normal(m):
     classname = m.__class__.__name__

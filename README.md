@@ -12,20 +12,20 @@
    utils.py is the configuration file.  
    
   ## Train the model
-'''
+```
 python new_train_v_a_2_haptic_v3_gan.py
-'''
+```
 
 ## Test the model
   ### For the coarse-gained classification:
-  '''
+```
     python test/Coarse-grained classification/new_train_v_a_2_coarse_grained_classify.py
-'''
+```
  ### For the fine-gained classification:
-   '''
+```
     python test/fine-grained classification task3/new_train_v_a_2_fine_grained_classify.py
-   '''
+```
 ### For the generation task:
- '''
+```
    python test/generation/test_1_model2txt.py
- '''
+```

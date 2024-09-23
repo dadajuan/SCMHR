@@ -29,3 +29,6 @@ python new_train_v_a_2_haptic_v3_gan.py
 ```
    python test/generation/test_1_model2txt.py
 ```
+### Data
+The original dataset is from LMT-108-Surface-Material database which can be downloaded at https://zeus.lmt.ei.tum.de/downloads/texture/. 
+The dataset we constructed for our practical cross-modal communication platform is available at https://github.com/dadajuan/VisTouchdataset.
